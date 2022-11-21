@@ -1,5 +1,0 @@
-class RenameCustomersToCustomer < ActiveRecord::Migration[7.0]
-  def change
-    rename_table :customers, :customer
-  end
-end
