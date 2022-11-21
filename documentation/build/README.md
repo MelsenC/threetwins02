@@ -2,7 +2,8 @@ Below is the console output when I created this app using
 
 `rails new threetwins02 -j esbuild --css bootstrap -d=postgresql`
 
-``% rails new threetwins02 -j esbuild --css bootstrap -d=postgresql
+```
+% rails new threetwins02 -j esbuild --css bootstrap -d=postgresql
       create
       create  README.md
       create  Rakefile
@@ -445,4 +446,5 @@ More info: https://sass-lang.com/d/function-units
     bootstrap/scss/bootstrap.scss 20:9                            @import
     app/assets/stylesheets/application.bootstrap.scss 1:9         root stylesheet
 
-✨  Done in 1.00s.``
+✨  Done in 1.00s.
+```
